@@ -1,1 +1,1 @@
-# Java-Project-using-SpringBoot
+Job Portal(Java full stack project using Spring Boot Framework).
